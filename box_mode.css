@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* .b-m{
+    margin: 10px auto;
+    padding: 5px;
+    background-color: azure;
+    border: 2px solid black;
+    width:300px;
+    height: 200px; 
+    text-align: center;
+    box-sizing: border-box;
+} */
+
+body{
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/764/505/66/baby-groot-4k-hd-superheroes-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    /* background-size: cover; */
+    background-attachment: fixed;
+    background-position: center center ;
+}
+
+.class{
+    margin:20px auto;
+    background-color: transparent;
+
+}
+/* .b-m{
+    margin: 10px auto;
+    padding: 5px;
+    background-color: initial;
+    border: 2px solid black;
+    width:300px;
+    height: 200px; 
+    text-align: center;
+    box-sizing: border-box;
+} */
+
+
+.b-m{
+    margin: 10px auto;
+    padding: 5px;
+    background-color: transparent;
+    border: 2px solid black;
+    width:300px;
+    height: 200px; 
+    text-align: center;
+    box-sizing: border-box;
+}

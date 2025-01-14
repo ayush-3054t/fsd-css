@@ -1,0 +1,90 @@
+/* .blue > p {
+    background-color: brown;
+    padding: 15px;
+    border: 10px solid currentColor;
+    box-shadow: 1px 1px 20px currentColor;
+
+}
+ .class3> .class4{
+    background-color: brown;
+    padding: 15px;
+    border: 10px solid currentColor;
+    box-shadow: 1px 1px 20px currentColor;
+ }
+ .class3> .class5{
+    background-color: brown;
+    padding: 15px;
+    border: 10px solid currentColor;
+    box-shadow: 1px 1px 20px currentColor;
+ } */
+ 
+ /* div[data-color]{
+    color: red;
+ } */
+
+ /* div[data-color]{
+    color: red;
+ } */
+
+ /* [class*="foo"]{
+    color: red;
+ } */
+
+ /* [class~="color-red"]{
+    color: red;
+ } */
+
+ /* [class^="foo-"]{
+    color: red;
+ } */
+
+ /* [class$="file"]{
+    color: red;
+ } */
+
+ /* div span{
+    color: rebeccapurple;
+ } */
+ /* .level1 > span{
+    color: rebeccapurple;
+ } */
+
+ /* .a+span{
+    color: rebeccapurple;
+ } */
+
+ /* div>p{
+    color: red;
+ } */
+
+ /* p+p{
+    color: red;
+ } */
+
+ /* p~p{
+    color: red;
+ } */
+
+ /* .warning{
+    color: aqua;
+ }
+
+ .important{
+    color: blueviolet;
+ }
+
+ .important.warning{
+    color: brown;
+ } */
+
+ /* p:last-of-type{
+    background: #C5CAE9;
+ }
+
+ h1:last-of-type{
+    background: #CDDC39;
+ } */
+
+ input:in-range{
+    border: blue solid 1px;
+ }

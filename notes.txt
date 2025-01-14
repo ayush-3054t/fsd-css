@@ -1,0 +1,14 @@
+Label                        Layout width
+smartphone                   480px and below
+portrait tablet              480px to 768px
+Landscape tablet             768px to   
+Default
+Large Screens
+
+
+Advantages:
+User expirience
+Analytics
+Sharing/Linking
+
+Important class : img-responsive(To make image responsive)
